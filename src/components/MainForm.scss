@@ -1,0 +1,193 @@
+.container-fancy-form {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 146, 216, 0.16);
+  .form-container {
+    width: 75%;
+    height: 500px;
+    // background-color: rgba(0, 146, 216);
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    .text-change-currency {
+      margin: 20px 0;
+      color: #7132f5;
+      font-size: 35px;
+    }
+    .text-change-currency-detail {
+      color: #1a1b22;
+      font-size: 25px;
+    }
+    .change-currency-box {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 50px;
+      align-items: center;
+      .currency-box {
+        padding: 25px 20px;
+        border: 1px solid black;
+        width: 43%;
+        border-radius: 20px;
+        display: flex;
+        align-items: center;
+        background-color: #fff;
+        &:hover {
+          border-color: #5707eb;
+        }
+        input {
+          width: 80%;
+          height: 35px;
+          font-size: 30px;
+          border: none;
+          background-color: transparent;
+          outline: none;
+          margin-right: 10px;
+        }
+        .currency-choose {
+          display: flex;
+          align-items: center;
+          position: relative;
+          transition: 0.2s;
+          overflow: hidden;
+          &::before {
+            content: "";
+            width: 67%;
+            height: 2px;
+            background-color: rgb(23, 23, 23);
+            right: -67px;
+            bottom: 0px;
+            position: absolute;
+            transition: 0.2s;
+          }
+          &:hover::before {
+            right: 0 !important;
+          }
+          cursor: pointer;
+          .currency-name {
+            background-color: transparent;
+            border: none;
+            margin-right: 3px;
+          }
+        }
+      }
+    }
+    .switch-change-box {
+      padding: 10px;
+      border-radius: 50%;
+      background-color: rgba(0, 146, 216, 0.16);
+      cursor: pointer;
+      &:hover {
+        background-color: rgba(4, 125, 181, 0.36);
+        transition: 0.1s;
+      }
+      .switch-change {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        background-image: url("https://cdn2.iconfinder.com/data/icons/arrows-02-5/512/exchange-transfer-opposite-direction-left-right-arrow-512.png");
+        width: 30px;
+        height: 30px;
+      }
+    }
+    .btn-transaction {
+      padding: 12px 20px;
+      border-radius: 20px;
+      background-color: rgb(91, 30, 207);
+      width: 150px;
+      margin: 0 auto;
+      margin-top: 65px;
+      font-size: 20px;
+      line-height: 20px;
+      color: #fff;
+      cursor: pointer;
+      border-color: #5b1ecf;
+      &:hover {
+        background-color: rgb(70, 11, 183);
+        transition: 0.1s;
+      }
+    }
+    .convert-ratio {
+      color: #9497a9;
+      margin-top: 15px;
+    }
+  }
+}
+.input-search-box {
+  margin-bottom: 15px;
+  margin: 20px 20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px 20px;
+  &:hover {
+    border: 1px solid blue;
+    transition: 0.1s;
+  }
+  i {
+    color: #5b1ecf;
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  input {
+    width: 90%;
+    border: none;
+    outline: none;
+  }
+}
+.list-currency {
+  width: 100%;
+  overflow-y: scroll;
+  height: 300px;
+  .item-currency {
+    padding: 10px 0;
+    display: flex;
+    cursor: pointer;
+    &:hover {
+      background-color: rgb(238, 236, 236);
+      transition: 0.1s;
+    }
+    img {
+      margin-left: 20px;
+    }
+    .name-currency-modal {
+      font-weight: bold;
+      margin-left: 10px;
+    }
+  }
+}
+.modal-body {
+  padding: 0;
+}
+@media (max-width: 576px) {
+  .input-search-box {
+    input {
+      width: 80% !important;
+    }
+  }
+  .form-container {
+    width: 100% !important;
+    .change-currency-box {
+      flex-direction: column;
+      .currency-box {
+        width: 85% !important;
+      }
+      .switch-change-box {
+        margin: 10px 0;
+        .switch-change {
+          background-image: url("https://www.svgrepo.com/show/22984/two-opposite-up-and-down-arrows-side-by-side.svg");
+        }
+      }
+    }
+    .btn-transaction {
+      margin-top: 40px !important;
+    }
+  }
+}
+@media (max-width: 960px) {
+  .form-container {
+    width: 95% !important;
+  }
+}
