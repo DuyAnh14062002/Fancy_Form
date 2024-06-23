@@ -29,8 +29,9 @@
       align-items: center;
       .currency-box {
         padding: 25px 20px;
+        box-sizing: content-box;
         border: 1px solid black;
-        width: 43%;
+        width: 40%;
         border-radius: 20px;
         display: flex;
         align-items: center;
@@ -52,6 +53,7 @@
           align-items: center;
           position: relative;
           transition: 0.2s;
+          width: 20%;
           overflow: hidden;
           &::before {
             content: "";
@@ -172,7 +174,13 @@
     .change-currency-box {
       flex-direction: column;
       .currency-box {
-        width: 85% !important;
+        width: 80% !important;
+        input {
+          width: 66% !important;
+        }
+        .currency-choose {
+          width: 34% !important;
+        }
       }
       .switch-change-box {
         margin: 10px 0;
