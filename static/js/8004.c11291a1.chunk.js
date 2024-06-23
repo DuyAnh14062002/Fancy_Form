@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8004],{8004:(f,s,a)=>{f.exports=a.p+"static/media/ampKUJI.652ff369bd45391d0c01.svg"}}]);

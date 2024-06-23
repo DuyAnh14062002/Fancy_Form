@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3213],{3213:(e,a,c)=>{e.exports=c.p+"static/media/LSI.e0de5ca88f20c6ba4f33.svg"}}]);

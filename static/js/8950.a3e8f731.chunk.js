@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8950],{8950:(c,s,e)=>{c.exports=e.p+"static/media/BOLT.7ddf7d675310b47c152c.svg"}}]);

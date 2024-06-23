@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8404],{8404:(c,f,s)=>{c.exports=s.p+"static/media/BAKE.bf5a3fb1177ccd498111.svg"}}]);

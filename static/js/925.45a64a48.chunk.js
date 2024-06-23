@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[925],{925:(e,s,a)=>{e.exports=a.p+"static/media/LOTA.fd5b6a192243b67c251e.svg"}}]);

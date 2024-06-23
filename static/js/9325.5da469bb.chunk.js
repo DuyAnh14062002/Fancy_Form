@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9325],{9325:(e,f,s)=>{e.exports=s.p+"static/media/HUNY.f8e6163ee250e3efebac.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4728],{4728:(e,s,c)=>{e.exports=c.p+"static/media/WMATIC.148499163112febdc179.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4688],{4688:(s,a,e)=>{s.exports=e.p+"static/media/DOGE.828a3754040420725423.svg"}}]);

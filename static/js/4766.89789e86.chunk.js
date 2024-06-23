@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4766],{4766:(c,s,a)=>{c.exports=a.p+"static/media/AKRO.61f227c0744386cc3ab2.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8741],{8741:(c,e,s)=>{c.exports=s.p+"static/media/OSMO.61d0f4cb7a603cd0965e.svg"}}]);

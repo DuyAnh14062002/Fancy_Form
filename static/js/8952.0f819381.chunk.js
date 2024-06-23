@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8952],{8952:(e,a,s)=>{e.exports=s.p+"static/media/TOMO.e955809ee029dae3aae0.svg"}}]);

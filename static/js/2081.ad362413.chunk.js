@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2081],{2081:(e,s,c)=>{e.exports=c.p+"static/media/EVMOS.493bbcd172b5bee24e32.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4282],{4282:(e,c,s)=>{e.exports=s.p+"static/media/ORION.d7b986b0e20e4eac496c.svg"}}]);

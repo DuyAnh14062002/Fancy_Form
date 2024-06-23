@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1968],{1968:(c,e,s)=>{c.exports=s.p+"static/media/LKT.4118c69795c9cef08282.svg"}}]);

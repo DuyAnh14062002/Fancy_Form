@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4849],{4849:(e,a,s)=>{e.exports=s.p+"static/media/LUNI.350d9a8e58535e39fac4.svg"}}]);

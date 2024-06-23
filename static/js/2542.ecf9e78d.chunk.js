@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2542],{2542:(a,s,e)=>{a.exports=e.p+"static/media/STORJ.d140a42374254a1683a4.svg"}}]);

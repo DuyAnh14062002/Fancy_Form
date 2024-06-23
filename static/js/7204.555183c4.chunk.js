@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7204],{7204:(e,s,c)=>{e.exports=c.p+"static/media/stFLUO.1c5969e2ed1af3c42778.svg"}}]);

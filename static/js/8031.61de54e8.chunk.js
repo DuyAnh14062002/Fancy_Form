@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8031],{8031:(e,s,a)=>{e.exports=a.p+"static/media/JPT.91bd4e06f600dc82ad04.svg"}}]);

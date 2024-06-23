@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[768],{768:(c,s,a)=>{c.exports=a.p+"static/media/ASTRO.c707a389c7390dd3d717.svg"}}]);

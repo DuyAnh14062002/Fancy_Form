@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[6828],{6828:(c,e,s)=>{c.exports=s.p+"static/media/MANTA.c7b4e6d12023cecf695a.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8695],{8695:(s,a,e)=>{s.exports=e.p+"static/media/MKR.09287bbb18508386a322.svg"}}]);

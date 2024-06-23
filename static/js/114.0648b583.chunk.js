@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[114],{114:(a,e,s)=>{a.exports=s.p+"static/media/APOLLO.0a758e40c8a720260d69.svg"}}]);

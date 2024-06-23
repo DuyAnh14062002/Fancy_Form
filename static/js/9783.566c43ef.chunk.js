@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9783],{9783:(e,a,s)=>{e.exports=s.p+"static/media/MNTA.d8ba84b174992e1ea58e.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7425],{7425:(c,e,f)=>{c.exports=f.p+"static/media/NIM.4b6608ffa20cd6e52c31.svg"}}]);

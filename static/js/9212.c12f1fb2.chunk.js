@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9212],{9212:(c,e,s)=>{c.exports=s.p+"static/media/BTC.c9112ce526df237c0165.svg"}}]);

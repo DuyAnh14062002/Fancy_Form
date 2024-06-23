@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[6254],{6254:(e,a,f)=>{e.exports=f.p+"static/media/IRIS.b6eef9794f6a1c6a282e.svg"}}]);

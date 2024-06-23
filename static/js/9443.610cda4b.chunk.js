@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9443],{9443:(e,c,f)=>{e.exports=f.p+"static/media/TUSD.cf0e3317a3defc10301b.svg"}}]);

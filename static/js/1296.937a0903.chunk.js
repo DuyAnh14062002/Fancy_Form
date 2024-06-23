@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1296],{1296:(e,f,s)=>{e.exports=s.p+"static/media/KRT.2df73edf93b96fe3d55b.svg"}}]);

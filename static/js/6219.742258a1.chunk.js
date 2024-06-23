@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[6219],{6219:(a,e,s)=>{a.exports=s.p+"static/media/HUAHUA.cad2d3266f6eb78a380b.svg"}}]);

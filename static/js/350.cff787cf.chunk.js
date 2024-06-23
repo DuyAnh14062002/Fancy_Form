@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[350],{350:(a,c,e)=>{a.exports=e.p+"static/media/ALGO.adad0416aed9104c7fcb.svg"}}]);

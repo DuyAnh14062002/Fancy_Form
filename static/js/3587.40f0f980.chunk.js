@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3587],{3587:(c,s,a)=>{c.exports=a.p+"static/media/LUNAX.4b494dfbaccb70835356.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[814],{814:(f,s,c)=>{f.exports=c.p+"static/media/QTUM.f76d051ff5390b2694c0.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7512],{7512:(e,s,a)=>{e.exports=a.p+"static/media/stJUNO.171483e164b3bea01286.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[5820],{5820:(e,f,c)=>{e.exports=c.p+"static/media/CRBRUS.8fa046bfafceecfc6e7e.svg"}}]);

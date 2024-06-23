@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7377],{7377:(e,a,c)=>{e.exports=c.p+"static/media/BCNA.7eccfdf2b0a58abe2668.svg"}}]);

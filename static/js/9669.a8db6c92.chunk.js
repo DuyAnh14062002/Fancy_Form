@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9669],{9669:(e,f,s)=>{e.exports=s.p+"static/media/THETA.5fe6bad546b55ef79664.svg"}}]);

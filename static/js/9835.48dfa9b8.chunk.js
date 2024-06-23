@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9835],{9835:(f,c,e)=>{f.exports=e.p+"static/media/RUNE.37c3866e7ff9b0bca2f8.svg"}}]);

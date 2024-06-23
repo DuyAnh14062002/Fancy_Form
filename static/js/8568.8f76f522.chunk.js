@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[8568],{8568:(e,s,a)=>{e.exports=a.p+"static/media/SHIDO.59fa65136bd0d7eee670.svg"}}]);

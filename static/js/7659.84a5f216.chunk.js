@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7659],{7659:(e,s,a)=>{e.exports=a.p+"static/media/IOTX.d814e3984fa8e119e235.svg"}}]);

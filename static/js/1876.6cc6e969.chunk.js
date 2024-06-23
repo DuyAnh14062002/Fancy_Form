@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1876],{1876:(e,s,c)=>{e.exports=c.p+"static/media/MARBLE.d1ee78d30e6c9b0f8b1e.svg"}}]);

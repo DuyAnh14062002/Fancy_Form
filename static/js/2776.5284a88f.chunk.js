@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2776],{2776:(e,s,a)=>{e.exports=a.p+"static/media/MDX.1717c45093fa29e759e7.svg"}}]);

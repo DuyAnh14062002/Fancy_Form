@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7005],{7005:(e,f,s)=>{e.exports=s.p+"static/media/MIOTA.4760f7b003937c37f2e4.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[6515],{6515:(a,c,e)=>{a.exports=e.p+"static/media/PUNDIX.9617d4acce197a875084.svg"}}]);

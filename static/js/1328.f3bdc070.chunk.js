@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1328],{1328:(e,s,a)=>{e.exports=a.p+"static/media/CANTO.242c93d47fd01be276a3.svg"}}]);
