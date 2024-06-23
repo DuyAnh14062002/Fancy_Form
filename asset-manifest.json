@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fancy_Form/static/css/main.797bf4b1.css",
-    "main.js": "/Fancy_Form/static/js/main.589a51b8.js",
+    "main.js": "/Fancy_Form/static/js/main.5689a73c.js",
     "static/js/8500.a99680ca.chunk.js": "/Fancy_Form/static/js/8500.a99680ca.chunk.js",
     "static/js/9034.05ca7f77.chunk.js": "/Fancy_Form/static/js/9034.05ca7f77.chunk.js",
     "static/js/197.fc9003e3.chunk.js": "/Fancy_Form/static/js/197.fc9003e3.chunk.js",
@@ -920,10 +920,10 @@
     "static/media/LRC.svg": "/Fancy_Form/static/media/LRC.9c90e42880cae92d3d53.svg",
     "static/media/WAVE.svg": "/Fancy_Form/static/media/WAVE.5e5e5db8d386a18321bd.svg",
     "main.797bf4b1.css.map": "/Fancy_Form/static/css/main.797bf4b1.css.map",
-    "main.589a51b8.js.map": "/Fancy_Form/static/js/main.589a51b8.js.map"
+    "main.5689a73c.js.map": "/Fancy_Form/static/js/main.5689a73c.js.map"
   },
   "entrypoints": [
     "static/css/main.797bf4b1.css",
-    "static/js/main.589a51b8.js"
+    "static/js/main.5689a73c.js"
   ]
 }
